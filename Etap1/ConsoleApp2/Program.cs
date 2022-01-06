@@ -16,8 +16,10 @@ public class ExThread {
         Console.WriteLine(" ");
         Console.WriteLine(" ");
         Console.WriteLine(" ");
-        Console.WriteLine(x_table);
-    
+        for(int i=0;i<x_table.Length;i++){
+
+            Console.Write(x_table[i]+",");
+        }
         for (int z = 0; z < 3; z++) {
             // Console.WriteLine("First Thread");
             System.Threading.Thread.Sleep(100);
@@ -193,7 +195,7 @@ public class GFG {
             threads_array[i] = new Thread(()=>obj.mythread1(i, divided_tables[i]));
             threads_array[i].Start();
         }
-
+        
         for(int i =0; i<thread_number;i++){
             threads_array[i].Join();
         }
