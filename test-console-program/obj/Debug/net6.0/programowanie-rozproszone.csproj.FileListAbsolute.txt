@@ -1,0 +1,15 @@
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/bin/Debug/net6.0/programowanie-rozproszone
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/bin/Debug/net6.0/programowanie-rozproszone.deps.json
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/bin/Debug/net6.0/programowanie-rozproszone.runtimeconfig.json
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/bin/Debug/net6.0/programowanie-rozproszone.dll
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/bin/Debug/net6.0/ref/programowanie-rozproszone.dll
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/bin/Debug/net6.0/programowanie-rozproszone.pdb
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.csproj.AssemblyReference.cache
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.GeneratedMSBuildEditorConfig.editorconfig
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.AssemblyInfoInputs.cache
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.AssemblyInfo.cs
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.csproj.CoreCompileInputs.cache
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.dll
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/ref/programowanie-rozproszone.dll
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.pdb
+/home/george/workspace/project/rozproszone/programowanie-rozproszone/obj/Debug/net6.0/programowanie-rozproszone.genruntimeconfig.cache

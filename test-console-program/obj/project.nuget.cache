@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "0O/FpzqFWu8LsjB1hnZ/IlUolniyYKm83wxITd96A3NpnBdWHD23VF4Ejx28Ml/IgKbuYCVMEtzLJ8ueNRhNvQ==",
+  "success": true,
+  "projectFilePath": "/home/george/workspace/project/rozproszone/programowanie-rozproszone/programowanie-rozproszone.csproj",
+  "expectedPackageFiles": [
+    "/home/george/.nuget/packages/google.protobuf/3.18.0/google.protobuf.3.18.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.aspnetcore/2.41.0/grpc.aspnetcore.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.aspnetcore.server/2.41.0/grpc.aspnetcore.server.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.aspnetcore.server.clientfactory/2.41.0/grpc.aspnetcore.server.clientfactory.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.core.api/2.41.0/grpc.core.api.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.net.client/2.41.0/grpc.net.client.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.net.clientfactory/2.41.0/grpc.net.clientfactory.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.net.common/2.41.0/grpc.net.common.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/grpc.tools/2.41.0/grpc.tools.2.41.0.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.configuration/3.0.3/microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.configuration.abstractions/3.0.3/microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.configuration.binder/3.0.3/microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.dependencyinjection/3.0.3/microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.3/microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.http/3.0.3/microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.logging/3.0.3/microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.options/3.0.3/microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/microsoft.extensions.primitives/3.0.3/microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "/home/george/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
